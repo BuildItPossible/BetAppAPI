@@ -2,7 +2,7 @@
    "gamecards":[      
       {
          "title":"This will be the title. You can leave it blank",
-         "League":"England Isthmus League",         
+         "league":"England Isthmus League",         
          "time":"Fri 1 Sep 21:45",
          "description":"This will be the title. You can leave it blank",
          "pre_game_tips":"master/PreGameTips.json",
@@ -11,7 +11,7 @@
       },    
       {
          "title":"This will be the title 2.",
-         "League":"England Isthmus League",         
+         "league":"England Isthmus League",         
          "time":"Fri 2 Sep 21:45",
          "description":"This will be the title. You can leave it blank",
          "pre_game_tips":"master/PreGameTips.json",
@@ -20,7 +20,7 @@
       },    
       {
          "title":"This will be the title 3. You can leave it blank",
-         "League":"England Isthmus League",         
+         "league":"England Isthmus League",         
          "time":"Fri 3 Sep 21:45",
          "description":"This will be the title. You can leave it blank",
          "pre_game_tips":"master/PreGameTips.json",
@@ -29,7 +29,7 @@
       },    
       {
          "title":"This will be the title 4.",
-         "League":"England Isthmus League",         
+         "league":"England Isthmus League",         
          "time":"Fri 4 Sep 21:45",
          "description":"This will be the title. You can leave it blank",
          "pre_game_tips":"master/PreGameTips.json",
