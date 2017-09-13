@@ -5,7 +5,6 @@
          "tip":"This is a tip. You can write what every you want"
       },
       {
-         "title":"",
          "tip":"This is a tip. You can write what every you want"
       },
       {
@@ -13,8 +12,7 @@
          "tip":"This is a tip. You can write what every you want"
       },
       {
-         "title":"This will be the title. You can leave it blank",
-         "tip":"This is a tip. You can write what every you want"
+         "title":"This will be the title. You can leave it blank"
       }
    ]
 }
