@@ -35,7 +35,7 @@
          "pre_game_tips":"master/PreGameTips.json",
          "game_score":"master/ScoreAPI.json",
          "live_tips":"master/LiveTips.json"
-      }    
+      },    
       {
          "title":"Athlone Town - Cobh Ramblers",
          "league":"Ireland 1st League",         
