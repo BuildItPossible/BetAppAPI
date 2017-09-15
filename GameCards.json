@@ -1,8 +1,26 @@
 {
    "gamecards":[      
       {
-         "title":"England Isthmus",
-         "league":"England Isthmus League",         
+         "title":"Athlone Town - Cobh Ramblers",
+         "league":"Ireland 1st League",         
+         "time":"Fri 1 Sep 21:45",
+         "description":"This will be the title. You can leave it blank",
+         "pre_game_tips":"master/PreGameTips.json",
+         "game_score":"master/Athlone%20Town%20-%20Cobh%20Ramblers.json",
+         "live_tips":"master/LiveTips.json"
+      },    
+      {
+         "title":"UCD - Wexford",
+         "league":"Ireland 1st League",         
+         "time":"Fri 1 Sep 21:45",
+         "description":"This will be the title. You can leave it blank",
+         "pre_game_tips":"master/PreGameTips.json",
+         "game_score":"master/UCDWexford.json",
+         "live_tips":"master/LiveTips.json"
+      },    
+      {
+         "title":"Waterford - Shelbourne",
+         "league":"Ireland 1st Leaguee",         
          "time":"Fri 1 Sep 21:45",
          "description":"This will be the title. You can leave it blank",
          "pre_game_tips":"master/PreGameTips.json",
@@ -10,27 +28,45 @@
          "live_tips":"master/LiveTips.json"
       },    
       {
-         "title":"England Isthmus.",
-         "league":"England Isthmus League",         
-         "time":"Fri 2 Sep 21:45",
+         "title":"Cabinteely - Longford Town",
+         "league":"Ireland 1st League",         
+         "time":"Fri 1 Sep 21:45",
+         "description":"This will be the title. You can leave it blank",
+         "pre_game_tips":"master/PreGameTips.json",
+         "game_score":"master/ScoreAPI.json",
+         "live_tips":"master/LiveTips.json"
+      }    
+      {
+         "title":"Athlone Town - Cobh Ramblers",
+         "league":"Ireland 1st League",         
+         "time":"Fri 1 Sep 21:45",
          "description":"This will be the title. You can leave it blank",
          "pre_game_tips":"master/PreGameTips.json",
          "game_score":"master/ScoreAPI.json",
          "live_tips":"master/LiveTips.json"
       },    
       {
-         "title":"England Isthmus",
-         "league":"England Isthmus League",         
-         "time":"Fri 3 Sep 21:45",
+         "title":"UCD - Wexford",
+         "league":"Ireland 1st League",         
+         "time":"Fri 1 Sep 21:45",
          "description":"This will be the title. You can leave it blank",
          "pre_game_tips":"master/PreGameTips.json",
          "game_score":"master/ScoreAPI.json",
          "live_tips":"master/LiveTips.json"
       },    
       {
-         "title":"England Isthmus",
-         "league":"England Isthmus League",         
-         "time":"Fri 4 Sep 21:45",
+         "title":"Waterford - Shelbourne",
+         "league":"Ireland 1st Leaguee",         
+         "time":"Fri 1 Sep 21:45",
+         "description":"This will be the title. You can leave it blank",
+         "pre_game_tips":"master/PreGameTips.json",
+         "game_score":"master/ScoreAPI.json",
+         "live_tips":"master/LiveTips.json"
+      },    
+      {
+         "title":"Cabinteely - Longford Town",
+         "league":"Ireland 1st League",         
+         "time":"Fri 1 Sep 21:45",
          "description":"This will be the title. You can leave it blank",
          "pre_game_tips":"master/PreGameTips.json",
          "game_score":"master/ScoreAPI.json",
