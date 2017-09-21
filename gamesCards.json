@@ -1,0 +1,24 @@
+{
+   "pregametips":[    
+      {
+         "game":"Finland 1st Division",
+         "league":"Ireland 1st League"
+      },       
+      {
+         "game":" Dundalk - St Patricks",
+         "league":"Ireland Premier League"
+      },       
+      {
+         "game":" Granada - Barcelona B",
+         "league":"Spain 1st League (Segunda)"
+      },         
+      {
+         "game":" MVV Maastricht - FC Den Bosch",
+         "league":"Netherlands 1st League"
+      },      
+      {
+         "game":" Turku PS - AC Oulu",
+         "league":"Finland 1st Division"
+      }
+   ]
+}
