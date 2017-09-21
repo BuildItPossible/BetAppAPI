@@ -2,23 +2,28 @@
    "gamesList":[    
       {
          "game":"Finland 1st Division",
-         "league":"Ireland 1st League"
+         "league":"Ireland 1st League",
+         "score_url":""
       },       
       {
          "game":" Dundalk - St Patricks",
-         "league":"Ireland Premier League"
+         "league":"Ireland Premier League",
+         "score_url":""
       },       
       {
          "game":" Granada - Barcelona B",
-         "league":"Spain 1st League (Segunda)"
+         "league":"Spain 1st League (Segunda)",
+         "score_url":""
       },         
       {
          "game":" MVV Maastricht - FC Den Bosch",
-         "league":"Netherlands 1st League"
+         "league":"Netherlands 1st League",
+         "score_url":""
       },      
       {
          "game":" Turku PS - AC Oulu",
-         "league":"Finland 1st Division"
+         "league":"Finland 1st Division",
+         "score_url":""
       }
    ]
 }
