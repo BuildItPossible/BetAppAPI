@@ -2,7 +2,7 @@
    "pregametips":[      
       {
          "title":"Here you write",
-         "tip":"contry. And also 3 lines below for time team and tips"
+         "tip":"<p>contry</p> <p> time</p> <p>team</p> and <p>tips</p>"
       },
       {
          "title":"This will be the title. You can leave it blank",
