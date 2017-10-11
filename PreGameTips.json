@@ -2,18 +2,30 @@
    "pregametips":[      
       {
          "title":"Here you write",
-         "tip":"<p>contry</p> <p> time</p> <p>team</p> and <p>tips</p>"
-      },
-      {
-         "title":"This will be the title. You can leave it blank",
+         "country":"Country",
+         "time":"time",
+         "team":"team",
          "tip":"This is a tip. You can write what every you want"
       },
       {
-         "title":"This will be the title. You can leave it blank",
+         "title":"Here you write",
+         "country":"Country",
+         "time":"time",
+         "team":"team",
          "tip":"This is a tip. You can write what every you want"
       },
       {
-         "title":"This will be the title. You can leave it blank",
+         "title":"Here you write",
+         "country":"Country",
+         "time":"time",
+         "team":"team",
+         "tip":"This is a tip. You can write what every you want"
+      },
+      {
+         "title":"Here you write",
+         "country":"Country",
+         "time":"time",
+         "team":"team",
          "tip":"This is a tip. You can write what every you want"
       }
    ]
